@@ -28,6 +28,7 @@ Vulnerability #2: SQL Injection
 Vulnerability #1: Cross-Site Scripting
 
 Vulnerability #2: Username Enumeration
+![](http://g.recordit.co/5mlG0DJPDC.gif)
 
 
 ## Red
