@@ -17,23 +17,23 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: Session Hijacking/Fixation
 
-Vulnerability #2: __________________
+Vulnerability #2: SQL Injection
 
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Scripting
 
-Vulnerability #2: __________________
+Vulnerability #2: Username Enumeration
 
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Cross-Site Request Forgery
 
-Vulnerability #2: __________________
+Vulnerability #2: Insecure Direct Object Reference 
 
 
 ## Notes
