@@ -38,6 +38,7 @@ Vulnerability #1: Cross-Site Request Forgery
 ![](http://g.recordit.co/JE84rq6saB.gif)
 
 Vulnerability #2: Insecure Direct Object Reference 
+![](http://g.recordit.co/6tILLNmDmE.gif)
 
 
 ## Notes
