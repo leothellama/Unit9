@@ -18,6 +18,7 @@ Each version of the site has been given two of the six vulnerabilities. (In othe
 ## Blue
 
 Vulnerability #1: Session Hijacking/Fixation
+![](http://g.recordit.co/xQ1zxpWpP4.gif)
 
 Vulnerability #2: SQL Injection
 
